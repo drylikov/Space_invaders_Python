@@ -1,7 +1,7 @@
-# space-invaders-python
+# Space_invaders_Python
 Python Space Invaiders game with Pygame   
 
-![header](https://raw.githubusercontent.com/daniilshat/space-invaders-python/main/resources_md/header.png)   
+![header](https://raw.githubusercontent.com/drylikov/space-invaders-python/main/resources_md/header.png)
 
 ### Todo:
 - [ ] Start screen   
